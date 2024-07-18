@@ -88,35 +88,41 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/600/?grayscale",
     description:
-      "JSD7 - E-commerce Project Front-end",
+      "JSD7 Group Project - PONYMART Production",
+    link: "https://jsd-7-cmfm-frontend.vercel.app/",
+  },
+  {
+    img: "https://picsum.photos/400/600/?grayscale",
+    description:
+      "JSD7 Group Project - PONYMART Front-end",
     link: "https://github.com/JSD7-CMFM/JSD7-CMFM-Frontend",
   },
   {
-    img: "https://picsum.photos/400/900/?grayscale",
+    img: "https://picsum.photos/400/600/?grayscale",
     description:
-      "JSD7 - E-commerce Project Back-end",
+      "JSD7 Group Project - PONYMART Back-end",
     link: "https://github.com/JSD7-CMFM/JSD7-CMFM-Backend",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "https://picsum.photos/400/600/?grayscale",
     description:
-      "WatchesPlus+ Front-end",
+      "CodeCamp16 - WatchesPlus+ Front-end",
     link: "https://github.com/ohmmpakpoomm/watchesPlus_frontend",
   },
   {
-    img: "https://picsum.photos/400/1000/?grayscale",
+    img: "https://picsum.photos/400/600/?grayscale",
     description:
-      "WatchesPlus+ Back-end",
+      "Codecamp16 -WatchesPlus+ Back-end",
     link: "https://github.com/ohmmpakpoomm/watchesPlus_backend",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://picsum.photos/400/600/?grayscale",
     description:
       "Your Trip Front-end",
     link: "https://github.com/redrumkung/CC16_PersonalProject_web",
   },
   {
-    img: "https://picsum.photos/400/1100/?grayscale",
+    img: "https://picsum.photos/400/600/?grayscale",
     description:
       "Your Trip Back-end",
     link: "https://github.com/redrumkung/CC16_PersonalProject_api",
