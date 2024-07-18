@@ -46,11 +46,11 @@ const skills = [
   },
   {
     name: "CSS",
-    value: 70,
+    value: 80,
   },
   {
     name: "Javascript",
-    value: 80,
+    value: 90,
   },
   {
     name: "React",
@@ -58,11 +58,11 @@ const skills = [
   },
   {
     name: "Express",
-    value: 75,
+    value: 80,
   },
   {
     name: "NodeJS",
-    value: 75,
+    value: 85,
   },
 ];
 
